@@ -15,12 +15,6 @@
 
 
 
-## Description
-
-- I prepared a small-scale project in order to understand the NextJS that I have learned recently.
-- I use next-auth for authentication, Fake Store API for product informations, stripe for payment process, firebase and firebase-admin for collecting order informations and TailwindCSS for styling.
-- I found the project from Youtube([Sonny Sangha](https://www.youtube.com/@SonnySangha)). You can see the related video from [here](https://www.youtube.com/watch?v=DF68MNDxVwU)
-
 ## Project Link
 
 #### You can reach my project from [here](https://rafid001amazon.netlify.app) 👈
